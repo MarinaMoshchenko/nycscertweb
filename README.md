@@ -20,7 +20,10 @@
 1. [Lesson Plan Craps game](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/blob/master/meth1/01_lesson.txt)
 2. [Live Code, Binary Search Recursive](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/blob/master/meth1/02_live_code.java)
 3. [Intro to NetLogo](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/blob/master/meth1/05_netlogo.txt)
-
+4. [Unplugged Activity](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/blob/master/meth1/06_unplugged.txt)
+5. [Jsoup Activity](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/blob/master/meth1/11_jsoup.md)
+6. [Lesson Plan 1](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/tree/master/meth1/LESSON_PLANS/lesson_plan1)
+7. [Lesson Plan 2](https://github.com/hunter-teacher-cert/work_csci70900-MarinaMoshchenko/tree/master/meth1/LESSON_PLANS/lesson_plan2)
 
 
 
